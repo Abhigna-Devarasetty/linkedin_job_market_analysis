@@ -26,7 +26,6 @@ Our analysis revealed significant trends in job types, industry demands, and the
 - `data/`: Folder containing raw and processed datasets.
 - `notebooks/`: Jupyter notebooks with all the analysis and models.
 - `visualizations/`: Directory of all visual output from the analysis.
-- `src/`: Source code for any additional scripts or automation used.
 
 ## How to Use
 Please refer to individual Jupyter notebooks for detailed steps on the analysis process. Visualizations can be viewed directly within the repository.
